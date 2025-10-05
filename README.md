@@ -7,3 +7,4 @@ Update 5 - Commit kelima untuk quest Endless Builder
 Update 6 - Commit keenam untuk quest Endless Builder
 Update 7 - Commit ketujuh untuk quest Endless Builder
 Update 8 - Commit kedelapan untuk quest Endless Builder
+Update 9 - Commit kesembilan untuk quest Endless Builder
